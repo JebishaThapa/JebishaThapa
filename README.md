@@ -13,32 +13,39 @@ Building strong engineering fundamentals one project at a time.
 
 <td width="55%" valign="top">
 
-## 💻 Terminal
-
 ```console
-$ whoami
+┌──────────────────────────────────────┐
+│ 💻 Terminal                          │
+├──────────────────────────────────────┤
 
+$ whoami
 Jebisha Thapa
-Computer Science Student
+
+$ location
 Kathmandu, Nepal
 
-$ learning
+$ role
+Computer Science Student
 
+$ learning
 • Python
 • Data Structures & Algorithms
 • Web Development
 
 $ building
+• Currency Converter
+• Multiplication Table Generator
+• Unit Conversion Toolkit
+• Auditor Program
 
-• Python Projects
-• Strong CS Fundamentals
+$ mission
+Build strong engineering fundamentals
+one project at a time.
 
-$ currently
-
-Learning one concept.
-Building one project.
-Improving every day.
+└──────────────────────────────────────┘
 ```
+
+</td>
 
 <td width="45%" align="center">
 
