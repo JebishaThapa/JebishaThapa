@@ -40,10 +40,9 @@ Building one project.
 Improving every day.
 ```
 
-</td>
 <td width="45%" align="center">
 
-<img src="./assets/bunny.png" width="320" alt="Coding Bunny"/>
+<img src="assets/bunny.png" width="320" alt="Coding Bunny">
 
 </td>
 
