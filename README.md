@@ -7,10 +7,11 @@
 Building strong engineering fundamentals one project at a time.
 
 </div>
+
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ## 💻 Terminal
 
@@ -21,41 +22,33 @@ Jebisha Thapa
 Computer Science Student
 Kathmandu, Nepal
 
-$ education
-
-NEB Science Student
-Future Software Engineer
-
-$ currently_learning
+$ learning
 
 • Python
 • Data Structures & Algorithms
-• Mathematics
-• Backend Development
+• Web Development
 
-$ current_projects
+$ building
 
-✓ Currency Converter
-✓ Multiplication Table Generator
-✓ Unit Conversion Toolkit
-✓ Auditor Program
+• Python Projects
+• Strong CS Fundamentals
 
-$ goals
+$ currently
 
-→ Master Computer Science Fundamentals
-→ Build Real Software Projects
-
-
-$ exit
-
-Have a great day!
+Learning one concept.
+Building one project.
+Improving every day.
 ```
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" alt="Developer Illustration">
 
 </td>
 
+<td width="45%" align="center">
+
+<img src="YOUR_BUNNY_IMAGE_URL" width="320"/>
+
+</td>
 
 </tr>
 </table>
+
+
