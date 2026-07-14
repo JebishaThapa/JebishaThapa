@@ -2,12 +2,10 @@
 
 # Hi, I'm Jebisha Thapa 👋
 
-### Computer Science Student • Python Developer 
-Building a strong foundation in computer science through mathematics, algorithms, and software engineering.
+### Computer Science Student • Python • DSA • Web Development
 
-Currently focused on:
+Building strong engineering fundamentals one project at a time.
 
-Python • Data Structures & Algorithms • Backend Development • Artificial Intelligence
 </div>
 <table>
 <tr>
