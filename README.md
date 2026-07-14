@@ -6,11 +6,8 @@
 Building a strong foundation in computer science through mathematics, algorithms, and software engineering.
 
 Currently focused on:
-- Python
-- Data Structures & Algorithms
-- Backend Development
-- Artificial Intelligence
 
+Python • Data Structures & Algorithms • Backend Development • Artificial Intelligence
 </div>
 <table>
 <tr>
