@@ -52,14 +52,12 @@ $ exit
 
 Have a great day!
 ```
-
-</td>
-
 <td width="40%" align="center">
 
-<!-- Illustration goes here -->
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" alt="Developer Illustration">
 
 </td>
+
 
 </tr>
 </table>
