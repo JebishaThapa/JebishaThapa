@@ -41,12 +41,12 @@ Improving every day.
 ```
 
 </td>
-
 <td width="45%" align="center">
 
-<img src="YOUR_BUNNY_IMAGE_URL" width="320"/>
+<img src="./assets/bunny.png" width="320" alt="Coding Bunny"/>
 
 </td>
+
 
 </tr>
 </table>
