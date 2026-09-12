@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jebisha Thapa 👋
+# Hi, I'm Jebisha Thapa 
 
 ### Computer Science Student • Python • DSA • Web Development
 
