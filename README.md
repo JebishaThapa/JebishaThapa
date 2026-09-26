@@ -26,12 +26,12 @@ $ learning
 • Python (backend fundamentals)
 • Data Structures & Algorithms
 • JavaScript / Web Development
-• C++ (starting — books/docs, no tutorials)
+• C++
 
 $ building
 • unit-conversion-toolkit
-• currency-converter
-• multiplication-table-generator
+• To-do List 
+• Javascript projects
 • auditor
 
 $ mission
@@ -78,7 +78,7 @@ one project at a time.
 | [cpp-projects](https://github.com/JebishaThapa/cpp-projects) | DSA & competitive programming in C++ | C++ |
 | [javascript-projects](https://github.com/JebishaThapa/javascript-projects) | Small JS/DOM practice apps | JS, HTML, CSS |
 
-*(Pin these 6 on your profile via "Customize your pins")*
+
 
 ---
 
@@ -93,7 +93,6 @@ one project at a time.
 
 ### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jebisha-thapa-478683370)
 
 </div>
