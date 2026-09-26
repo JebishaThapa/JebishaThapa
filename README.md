@@ -82,8 +82,6 @@ one project at a time.
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JebishaThapa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JebishaThapa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
