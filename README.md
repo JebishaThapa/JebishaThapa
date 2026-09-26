@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jebisha Thapa 👋
+# Hi, I'm Jebisha Thapa 
 
 ### Backend Developer in Training • Python · DSA · Web Development
 
@@ -82,12 +82,6 @@ one project at a time.
 
 ---
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JebishaThapa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JebishaThapa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</p>
-
----
 
 ### 📫 Connect
 
